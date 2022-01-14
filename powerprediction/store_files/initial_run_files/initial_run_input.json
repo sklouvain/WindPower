@@ -1,0 +1,6 @@
+{
+  "_description": "region ex:FRA, DEU; subregion ex:FRA, RWE; run:calibration/forecast",
+  "region": "FRA",
+  "subregion": "FRA",
+  "run_method": "forecast"
+}
