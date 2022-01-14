@@ -1,0 +1,7 @@
+{
+  "_comments": "more subregions will be added",
+  "DEU" : ["RWE"],
+  "FRA" : ["FRA"],
+  "CAISO" : ["USACAISONP15", "USACAISOSP15"],
+  "ERCOT" : ["USAERCOTNorthWest", "USAERCOTSouthHouston"]
+}
