@@ -1,0 +1,26 @@
+{
+  "FRA_FRA": {
+    "capacity": 110950845,
+    "production": 103147166
+  },
+  "DEU_RWE": {
+    "capacity": 112556827,
+    "production": 101679913
+  },
+  "CAISO_USACAISONP15": {
+    "capacity": 111949664,
+    "production": 104634312
+  },
+  "CAISO_USACAISOSP15": {
+    "capacity": 111949667,
+    "production": 104634311
+  },
+  "ERCOT_USAERCOTNorthWest": {
+    "capacity": 112282763,
+    "production": 104537563
+  },
+  "ERCOT_USAERCOTSouthHouston": {
+    "capacity": 112282762,
+    "production": 104537564
+  }
+}
